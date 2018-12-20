@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grada_Mobile.Android", "Gra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grada_Mobile.iOS", "Grada_Mobile\Grada_Mobile.iOS\Grada_Mobile.iOS.csproj", "{45801ECC-2040-45C0-AF6D-BEE6A2E9B8AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grada_Mobile", "Grada_Mobile\Grada_Mobile\Grada_Mobile.csproj", "{B19C513B-1CD7-41F9-9FEC-046AF2F0AD13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grada_Mobile", "Grada_Mobile\Grada_Mobile\Grada_Mobile.csproj", "{B19C513B-1CD7-41F9-9FEC-046AF2F0AD13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
